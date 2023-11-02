@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:login_page/onbording_screen.dart';
 import 'package:login_page/registration_screen.dart';
 
 void main() {

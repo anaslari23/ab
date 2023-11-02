@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:login_page/onbording_screen.dart';
 import 'package:login_page/registration_screen.dart';
 import 'package:login_page/widgets/gradient_button.dart';
 import 'package:login_page/widgets/login_field.dart';
